@@ -66,4 +66,4 @@ Python3.8 was used for data parsing, alongside the pandas and regex libraries.
 
 ## 3 Nextflow Workflow
 
-For this analysis, a new process was added to the `main.nf` file which used the sistr library on every fasta file, just like the previous process did with seqsero2. Unfortunately, the job never ran until completion due to configuration errors of nextflow on my local machine.
+For this analysis, a new process was added to the `main.nf` file which used the `sistr` library on every `.fasta` file, just like the previous process did with `seqsero2`. The presentation is a available in this [Google Slides link](https://docs.google.com/presentation/d/1xDmGo9-1XUkCAiLUDV77ZcOkvCF1ys_1Kt0CLyDK1Zw/edit?usp=sharing).
