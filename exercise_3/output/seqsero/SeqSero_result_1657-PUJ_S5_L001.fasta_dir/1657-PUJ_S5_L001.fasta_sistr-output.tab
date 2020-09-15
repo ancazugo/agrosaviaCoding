@@ -1,0 +1,2 @@
+cgmlst_ST	cgmlst_distance	cgmlst_found_loci	cgmlst_genome_match	cgmlst_matching_alleles	cgmlst_subspecies	fasta_filepath	genome	h1	h2	o_antigen	qc_messages	qc_status	serogroup	serovar	serovar_antigen	serovar_cgmlst
+397616361	0.033333333333333326	330	SRR3321732	319	enterica	/home/ancazugo/Documents/coding_assessment_exercise/exercise_3/work/7c/25fbf4e0acc2951751796f86bc2162/1657-PUJ_S5_L001.fasta	1657-PUJ_S5_L001	i	-	1,4,[5],12	INFO: Number of cgMLST330 loci found (n=330)	PASS	B	I 1,4,[5],12:i:-	I 1,4,[5],12:i:-	Typhimurium

@@ -1,0 +1,9 @@
+Output directory:	/home/ancazugo/Documents/coding_assessment_exercise/exercise_3/work/7c/25fbf4e0acc2951751796f86bc2162/SeqSero_result_09_15_2020_02_11_51293936
+Input files:	1657-PUJ_S5_L001.fasta
+O antigen prediction:	4
+H1 antigen prediction(fliC):	i
+H2 antigen prediction(fljB):	-
+Predicted subspecies:	I
+Predicted antigenic profile:	4:i:-
+Predicted serotype:	I 4,[5],12:i:-
+Note:	

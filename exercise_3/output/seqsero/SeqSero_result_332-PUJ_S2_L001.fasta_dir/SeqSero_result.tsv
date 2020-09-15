@@ -1,0 +1,2 @@
+Sample name	Output directory	Input files	O antigen prediction	H1 antigen prediction(fliC)	H2 antigen prediction(fljB)	Predicted subspecies	Predicted antigenic profile	Predicted serotype	Note
+332-PUJ_S2_L001.fasta	/home/ancazugo/Documents/coding_assessment_exercise/exercise_3/work/c3/096b7ce2242dce4d39df14d6580595/SeqSero_result_09_15_2020_02_13_093155789	332-PUJ_S2_L001.fasta	9	l,v	1,5	I	9:l,v:1,5	Panama	

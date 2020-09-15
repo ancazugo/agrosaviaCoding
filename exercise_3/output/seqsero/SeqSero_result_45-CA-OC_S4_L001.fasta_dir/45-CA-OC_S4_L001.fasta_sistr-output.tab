@@ -1,0 +1,2 @@
+cgmlst_ST	cgmlst_distance	cgmlst_found_loci	cgmlst_genome_match	cgmlst_matching_alleles	cgmlst_subspecies	fasta_filepath	genome	h1	h2	o_antigen	qc_messages	qc_status	serogroup	serovar	serovar_antigen	serovar_cgmlst
+246326552	0.030303030303030276	330	SRR4124058	320	enterica	/home/ancazugo/Documents/coding_assessment_exercise/exercise_3/work/8d/8f2c5bd11267e85917537e2b1e3e65/45-CA-OC_S4_L001.fasta	45-CA-OC_S4_L001	l,z28	1,5	1,9,12	INFO: Number of cgMLST330 loci found (n=330)	PASS	D1	Javiana	Koessen|Mendoza|Houston|Panama|Victoria|Itami|Javiana|India	Javiana

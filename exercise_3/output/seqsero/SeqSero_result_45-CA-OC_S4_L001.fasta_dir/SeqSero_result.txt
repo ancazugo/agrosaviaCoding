@@ -1,0 +1,9 @@
+Output directory:	/home/ancazugo/Documents/coding_assessment_exercise/exercise_3/work/8d/8f2c5bd11267e85917537e2b1e3e65/SeqSero_result_09_15_2020_02_10_292152808
+Input files:	45-CA-OC_S4_L001.fasta
+O antigen prediction:	9
+H1 antigen prediction(fliC):	l,z28
+H2 antigen prediction(fljB):	1,5
+Predicted subspecies:	I
+Predicted antigenic profile:	9:l,z28:1,5
+Predicted serotype:	Javiana
+Note:	

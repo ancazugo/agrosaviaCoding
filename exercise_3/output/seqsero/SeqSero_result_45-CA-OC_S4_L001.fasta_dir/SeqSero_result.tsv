@@ -1,0 +1,2 @@
+Sample name	Output directory	Input files	O antigen prediction	H1 antigen prediction(fliC)	H2 antigen prediction(fljB)	Predicted subspecies	Predicted antigenic profile	Predicted serotype	Note
+45-CA-OC_S4_L001.fasta	/home/ancazugo/Documents/coding_assessment_exercise/exercise_3/work/8d/8f2c5bd11267e85917537e2b1e3e65/SeqSero_result_09_15_2020_02_10_292152808	45-CA-OC_S4_L001.fasta	9	l,z28	1,5	I	9:l,z28:1,5	Javiana	

@@ -1,0 +1,2 @@
+cgmlst_ST	cgmlst_distance	cgmlst_found_loci	cgmlst_genome_match	cgmlst_matching_alleles	cgmlst_subspecies	fasta_filepath	genome	h1	h2	o_antigen	qc_messages	qc_status	serogroup	serovar	serovar_antigen	serovar_cgmlst
+1301798030	0.033333333333333326	330	SRR3057114	319	enterica	/home/ancazugo/Documents/coding_assessment_exercise/exercise_3/work/c3/096b7ce2242dce4d39df14d6580595/332-PUJ_S2_L001.fasta	332-PUJ_S2_L001	l,v	1,5	1,9,12	INFO: Number of cgMLST330 loci found (n=330)	PASS	D1	Panama	Koessen|Mendoza|Houston|Panama|Victoria|Itami|Javiana|India	Panama

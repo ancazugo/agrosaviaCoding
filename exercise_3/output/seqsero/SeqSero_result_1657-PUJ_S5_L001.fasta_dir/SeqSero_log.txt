@@ -1,0 +1,46 @@
+O_scores:
+O-4_wzx__1293	97.86898184688239
+O-1,3,19_not_in_3,10__130	70.1923076923077
+
+H_scores:
+fliC_i_Salmonella.enterica_IIIb.61:i:z_AY353417_r,i__1488	48.15321477428181
+fliC_i_Salmonella.enterica_Gloucester_AY353429_r,i__1488	88.50889192886456
+fliC_r_Salmonella.enterica_Rubislaw_AY353458_r,i__1482	66.00274725274726
+fliC_r_Infantisstr_ASRF01000003_r,i__1470	65.65096952908587
+fliC_i_Kentuckystr_AOYZ01000062_r,i__1476	86.20689655172413
+fliC_i_Salmonella.enterica_Bandia_AY353421_r,i__1488	83.78932968536252
+fliC_i_Salmonella.enterica_Lindenburg_AY353428_r,i__1488	84.81532147742818
+fliC_r_Infantisstr_AFYI01000002_r,i__1470	65.7202216066482
+fliC_i_Salmonella.enterica_Agama_AY353430_r,i__1488	87.07250341997263
+fliC_i_Salmonella.enterica_Augustenborg_AY353418_r,i__1488	86.66210670314638
+fliC_i_Salmonella.enterica_IIIb.57:i:e,n,x,z15_AY353432_r,i__1488	50.41039671682627
+fliC_i_Salmonella.enterica_II.4,12,27:i:z35_AY353425_r,i__1488	56.36114911080712
+fliC_y_Hartfordstr_ALPO01000014_other.y__1509	40.25623735670937
+fliC_r_Salmonella.enterica_IIIb.35:r:z61_AY353460_r,i__1482	40.7967032967033
+fliC_y_Bareillystr_ALPN01000010_other.y__1509	40.25623735670937
+fliC_y_Bareillystr_AOZP01000027_other.y__1508	40.2834008097166
+fliC_i_Salmonella.enterica_Typhimurium_AY353420_r,i__1488	98.1532147742818
+fliC_l,z13_Salmonella.enterica_Kenya_AY353449_l,v__1503	43.33107650643196
+fliC_i_Kentuckystr_AYDR01000065_r,i__1476	87.0344827586207
+fliC_i_Salmonella.enterica_Kentucky_AY353427_r,i__1488	91.58686730506156
+fliC_r,i_Salmonella.enterica_Bovismorbificans_AY353463_r,i__1476	65.44827586206895
+fliC_i_Salmonella.enterica_IIIb.21:i:e,n,x,z15_AY353431_r,i__1488	50.0
+fliC_i_Salmonella.enterica_IIIb.48:i:z_AY353419_r,i__1488	50.0
+fliC_i_Typhimuriumstr_AUQT01000018_r,i__1476	100.0
+fliC_i_Salmonella.enterica_Idikan_AY353422_r,i__1488	90.35567715458276
+fliC_z35_Salmonella.enterica_Tema_AY353480_other.z35__1488	41.10807113543092
+fliC_r_Heidelbergstr_AJGW01000023_r,i__1470	67.5207756232687
+fliC_l,z13,z28_Salmonella.enterica_Hiduddify_DTU-unknown_l,v__1506	45.472972972972975
+fliC_i_4,[5],12_i_-str_ABAO01000026_r,i__1476	98.13793103448276
+fliC_r,i_Salmonella.enterica_Hidalgo_AY353464_r,i__1476	66.27586206896552
+fliC_r_Virchowstr_ABFH02000002_r,i__1470	70.08310249307479
+fliC_r_Weltevredenstr_ABFF01000030_r,i__1470	57.13296398891967
+
+Special_scores:
+oafA-O-4_full__332	100.0
+gntR-family-regulatory-protein_dt-positive__291	100.0
+oafA__1830	95.06651884700665
+uniqmers_I	100.0
+allmers	12.978168162433965
+gntR-family-regulatory-protein_dt-negative__291	89.81132075471699
+oafA-O-4_5-__325	94.31438127090301
