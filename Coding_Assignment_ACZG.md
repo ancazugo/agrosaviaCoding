@@ -1,4 +1,5 @@
-# 1 Variant Calling
+# Andrés Camilo Zúñiga González - Assessment
+## 1 Variant Calling
 For this analysis, I would mainly rely on `DADA2` for quality filtering and `bowtie2` for mapping.
 
 `DADA2` can be run from an R script or using R CLI, following these commands:
@@ -53,7 +54,7 @@ Finally, if I wanted variants greater than a threshold (integer), for instance, 
 
 - `cat mapping.vcf | grep AF1>20 > mapping.filtered.vcf`
 
-# 2 Data Parsing
+## 2 Data Parsing
 Python3.8 was used for data parsing, alongside the pandas and regex libraries.
 
 1. Both .csv files were loaded using pandas
@@ -63,6 +64,6 @@ Python3.8 was used for data parsing, alongside the pandas and regex libraries.
 5. A function was defined in order to perform a double loop on the loci and the rows of the ariba dataFrame checking the desired conditions. If a row met the requirements it was added to a new dataframe.
 6. The new dataFrame containing informatino about the sample, the antibiotic to which it is resistant and the Accession Number is saved as a csv file.
 
-# 3 Nextflow Workflow
+## 3 Nextflow Workflow
 
-For this analysis, a new process was added to the `main.nf` file which used the sistr library on every fasta file, just like the previous process did with seqsero2. The output of these results was parsed by ID using python.
+For this analysis, a new process was added to the `main.nf` file which used the sistr library on every fasta file, just like the previous process did with seqsero2. Unfortunately, the job never ran until completion due to configuration errors of nextflow on my local machine.
